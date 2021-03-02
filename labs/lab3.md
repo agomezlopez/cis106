@@ -29,4 +29,8 @@ For web browser 1973 KB will be utilized and 7358 KB after installation
 ## Question 5
 ![Question5](../imgs/Question5color.png)
 ![Question5Long](../imgs/Question5long.png)
+<<<<<<< HEAD
 ![Question5](../imgs/Question5size.png)
+=======
+![Question5](../imgs/Question5size.png)
+>>>>>>> b2b936455750fbe1cf7e89b510059138a3230c27
