@@ -12,25 +12,21 @@ apt search web browser and sudo apt install wapua
 name of application is yuyo-gtk-themes and wapua
 
 3.2 What dependencies are needed in order to install the package? (you can either take a screenshot of the terminal or copy and paste from the terminal)
-![theme](../imgs/theme.png)
-![webbrowser](../imgs/webbrowser.png)
+![theme](../imgs/lab3/theme.png)
+![webbrowser](../imgs/lab3/webbrowser.png)
 3.3 How much disk space will the package utilize after installation?
 For themes 14.3 MB will be utilized and 75 MB after installation
 For web browser 1973 KB will be utilized and 7358 KB after installation
 
 ## Question 2
-![AbsolutePath](../imgs/Question2abso.png)
-![AbsolutePath](../imgs/Question2rel.png)
+![AbsolutePath](../imgs/lab3/Question2abso.png)
+![AbsolutePath](../imgs/lab3/Question2rel.png)
 ## Question 3
-![Question3](../imgs/Question3list.png)
+![Question3](../imgs/lab3/Question3list.png)
 ## Question 4
-![Question4](../imgs/Question4.png)
-![Question4file](../imgs/Question4html.png)
+![Question4](../imgs/lab3/Question4.png)
+![Question4file](../imgs/lab3/Question4html.png)
 ## Question 5
-![Question5](../imgs/Question5color.png)
-![Question5Long](../imgs/Question5long.png)
-<<<<<<< HEAD
-![Question5](../imgs/Question5size.png)
-=======
-![Question5](../imgs/Question5size.png)
->>>>>>> b2b936455750fbe1cf7e89b510059138a3230c27
+![Question5](../imgs/lab3/Question5color.png)
+![Question5Long](../imgs/lab3/Question5long.png)
+![Question5](../imgs/lab3/Question5size.png)
